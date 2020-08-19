@@ -1,6 +1,3 @@
-/** CSci-4611 Assignment 2:  Car Soccer
- */
-
 #ifndef BALL_H_
 #define BALL_H_
 
